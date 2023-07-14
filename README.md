@@ -67,43 +67,44 @@
 #### 유저
 
 - 학생 로그인
-![](https://velog.velcdn.com/images/ann99934/post/5c148c08-a091-4561-a6f2-3860b90c96ac/image.gif)
+![학생-로그인](https://github.com/ann99934/JSP_2_Project/assets/110450765/0791a41a-eab5-4511-873d-c79bc32c6840)
 
 - 학생 정보 조회, 수정
-![](https://velog.velcdn.com/images/ann99934/post/2892959e-1b4b-4962-9737-980f36f0308b/image.gif)
+![학생정보-조회_-수정](https://github.com/ann99934/JSP_2_Project/assets/110450765/2a2abc2c-8330-4cbb-8e37-cb0ff346417b)
 
 - 수강신청, 취소, 내 수강시간표 반영
-![](https://velog.velcdn.com/images/ann99934/post/6d6a13db-fae3-4786-a062-4c39d1825a00/image.gif)
+![수강-신청_-취소_-수강시간표-반영](https://github.com/ann99934/JSP_2_Project/assets/110450765/303c82fe-0b75-4b74-b6b0-a2d0fecd828b)
 
 - 별명 설정
-![](https://velog.velcdn.com/images/ann99934/post/caf5d8dd-f7cc-49e9-a9d0-007a1f576916/image.gif)
+![커뮤니티-별명설정](https://github.com/ann99934/JSP_2_Project/assets/110450765/08bb0ad5-155c-43cb-b819-7db31aad811e)
 
 - 커뮤니티 게시글 작성
-![](https://velog.velcdn.com/images/ann99934/post/d8c1966c-b5d3-41ec-ae90-e85611b28279/image.gif)
+![커뮤니티-게시글-작성](https://github.com/ann99934/JSP_2_Project/assets/110450765/7257e51b-a32a-4384-986e-cb7cd84077a0)
+
 
 - 커뮤니티 게시글 수정, 삭제
-![](https://velog.velcdn.com/images/ann99934/post/bffa58d8-2ccb-4eaf-8975-442dcba36346/image.gif)
+![커뮤니티-게시글-수정_-삭제](https://github.com/ann99934/JSP_2_Project/assets/110450765/8f3a1a61-2a1b-451b-897e-249d1be3c0a5)
 
 - 댓글 작성, 삭제
-![](https://velog.velcdn.com/images/ann99934/post/f7692831-9715-4c2b-8cd6-12b8fa4a463a/image.gif)
+![댓글-등록_-삭제](https://github.com/ann99934/JSP_2_Project/assets/110450765/67b4934b-98a5-4374-9b9f-15aa6c47a929)
 
 - 마이페이지 내 글 조회
-![](https://velog.velcdn.com/images/ann99934/post/ea57b2a1-0383-4484-a9a8-ab08c7899b49/image.gif)
+![마이페이지-내글-조회](https://github.com/ann99934/JSP_2_Project/assets/110450765/02d1eaae-dace-4b6c-a082-d035ce7cd6a6)
 
 
 #### 관리자
 
 - 관리자 로그인
-![](https://velog.velcdn.com/images/ann99934/post/ff646f78-061c-46eb-b8bb-db97d000d289/image.gif)
+![관리자-로그인](https://github.com/ann99934/JSP_2_Project/assets/110450765/b055c659-c204-467e-a0b8-e9720d37f30e)
 
 - 학생 정보 등록
-![](https://velog.velcdn.com/images/ann99934/post/33579805-0160-4434-b9bb-64953f48f6a8/image.gif)
+![학생-등록](https://github.com/ann99934/JSP_2_Project/assets/110450765/fd91de59-23b7-4292-98f5-0b387b9a657f)
 
 - 학생 정보 수정, 삭제
-![](https://velog.velcdn.com/images/ann99934/post/0ee641e4-e8a0-4409-a011-52d363d8d14e/image.gif)
+![학생수정_-삭제](https://github.com/ann99934/JSP_2_Project/assets/110450765/185979f8-87b9-4ca9-abb3-0565d6b9166b)
 
 - 강의 목록 조회
-![](https://velog.velcdn.com/images/ann99934/post/096b3b5e-c271-4039-a242-c17da7619064/image.gif)
+![수강과목-조회](https://github.com/ann99934/JSP_2_Project/assets/110450765/0312235b-8f6d-4097-8f86-6e695ad98486)
 
 ## 3. 개인 내용
 <br>
