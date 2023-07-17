@@ -50,14 +50,13 @@
 
 ### 2-2. 프로젝트 기능과 화면
 
-![](https://velog.velcdn.com/images/ann99934/post/684cc067-3851-4a70-86ff-4f50a1b54f1e/image.png)
-
+![기능+화면](https://github.com/ann99934/Hi-University/assets/110450765/6990fcb8-309c-4372-abfa-497dba3be075)
 
 <br>
 
 ### 2-3. ERD
 
-![](https://velog.velcdn.com/images/ann99934/post/72409072-6b0c-42e7-8cff-f8732e5925b1/image.png)
+![project2](https://github.com/ann99934/Hi-University/assets/110450765/e7e33721-48e6-4da1-9b6d-040e68700b17)
 
 <br>
 
@@ -110,8 +109,8 @@
 <br>
 
 ### 3-1. 직접 구현한 기능
-	1. 커뮤니티 게시판
-    2. 마이페이지
+1. 커뮤니티 게시판
+2. 마이페이지
 <br>
 
 ### 3-2. 트러블 슈팅
