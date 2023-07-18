@@ -109,7 +109,7 @@
 ![수강과목-조회](https://github.com/ann99934/JSP_2_Project/assets/110450765/0312235b-8f6d-4097-8f86-6e695ad98486)
 
 </div>
-</detail>
+</details>
 
 ## 3. 개인 내용
 <br>
