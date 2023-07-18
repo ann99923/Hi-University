@@ -3,15 +3,13 @@
 
 ## 목차
 1. 프로젝트 개요
-2. 프로젝트 설명<br>
-	2-1. 사용 기술<br>
-    	2-2. 프로젝트 구조<br>
-    	2-3. ERD<br>
-   	2-4. 프로젝트 전체 구현 기능<br>
-3. 개인 내용<br>
-	3-1. 직접 구현한 기능<br>
-	3-2. 프로젝트에서 발휘한 역량과 성장한 점
-
+2. 사용 기술
+3. 프로젝트 설계
+4. 프로젝트 주요 기능
+5. 개인 내용<br>
+	5-1. 직접 구현한 기능<br>
+	5-2. 프로젝트에서 발휘한 역량과 성장한 점
+6. 회고 / 느낀점
 <br>
 
 ## 1. 프로젝트 개요
@@ -21,18 +19,16 @@
 - 개발 기간: 2023.04.10 ~ 04.21
 <br>
 
-## 2. 프로젝트 설명
+## 2. 사용 기술
 
-### 2-1. 사용 기술
-
-#### `Back-end`
+### Back-end
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
-#### `Front-end`
+### Front-end
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,33 +36,35 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
-#### `DataBase`
+### DataBase
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
-#### `etc`
+### `etc`
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 
 <br>
 
-### 2-2. 프로젝트 기능과 화면
+## 3. 프로젝트 설계
+
+### 기능/화면 기획
 
 ![기능+화면](https://github.com/ann99934/Hi-University/assets/110450765/6990fcb8-309c-4372-abfa-497dba3be075)
 
 <br>
 
-### 2-3. ERD
+### ERD
 
 ![project2](https://github.com/ann99934/Hi-University/assets/110450765/e7e33721-48e6-4da1-9b6d-040e68700b17)
 
 <br>
 
-### 2-4. 프로젝트 주요 기능
+## 4.프로젝트 주요 기능
 <br>
 <details>
 <summary><b>주요 기능 실행화면</b></summary>
 <div markdown="1">
 
-#### 유저
+### 유저
 
 - 학생 로그인
 ![학생-로그인](https://github.com/ann99934/JSP_2_Project/assets/110450765/0791a41a-eab5-4511-873d-c79bc32c6840)
@@ -83,7 +81,6 @@
 - 커뮤니티 게시글 작성
 ![커뮤니티-게시글-작성](https://github.com/ann99934/JSP_2_Project/assets/110450765/7257e51b-a32a-4384-986e-cb7cd84077a0)
 
-
 - 커뮤니티 게시글 수정, 삭제
 ![커뮤니티-게시글-수정_-삭제](https://github.com/ann99934/JSP_2_Project/assets/110450765/8f3a1a61-2a1b-451b-897e-249d1be3c0a5)
 
@@ -94,7 +91,7 @@
 ![마이페이지-내글-조회](https://github.com/ann99934/JSP_2_Project/assets/110450765/02d1eaae-dace-4b6c-a082-d035ce7cd6a6)
 
 
-#### 관리자
+### 관리자
 
 - 관리자 로그인
 ![관리자-로그인](https://github.com/ann99934/JSP_2_Project/assets/110450765/b055c659-c204-467e-a0b8-e9720d37f30e)
@@ -111,20 +108,20 @@
 </div>
 </details>
 
-## 3. 개인 내용
+## 5. 개인 내용
 <br>
 
-### 3-1. 직접 구현한 기능
+### 5-1. 직접 구현한 기능
 1. 커뮤니티 게시판
 2. 마이페이지
 <br>
 
-### 3-2. 트러블 슈팅
+### 5-2. 트러블 슈팅
 - 자유게시판/익명게시판 나눌때
 - 검색 페이징
 - 글 상세보기 -> 뒤로가기 -> 페이징
 <br>
 
 
-## 4. 회고 / 느낀점
+## 6. 회고 / 느낀점
 <br>
